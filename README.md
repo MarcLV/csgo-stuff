@@ -45,29 +45,8 @@ $ git clone git@github.com:MarcLV/csgo-stuff.git
 ### Version 
 * Version 1.0
 
-```
-                              
-                             /\
-                            /  \
-                           | †  |
-                         --:'''':--
-                           :﴾_﴾ Ϧ
-                           _:"":\__    
-  $         '  '     ___.'::: |    '.
-$ ₿ $     . ۞======##)        |   \  :
-  $          .  '     '-'-'\_ Ῠ   /| |
-                            \==†=:_'.'
-                           .'     \\"
-                          :       :
-                         /   :    \
-                        :   .      '.
-                        :  : :      :
-                        :__:-:__.;--'
-                         '-'   '-'
-```
-
 ***Psst..*** 
-***buy Bitcoin before it's too late.***
+***buy 1 bitcoin.***
 
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software) 
